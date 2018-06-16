@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "LinqKit.Core": "1.1.9",
+    "Microsoft.AspNetCore.Identity": "1.1.2",
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "1.1.2",
+    "Microsoft.EntityFrameworkCore": "1.1.2",
+    "Microsoft.EntityFrameworkCore.SqlServer": "1.1.2",
+    "Microsoft.Extensions.Options": "1.1.2",
+    "NETStandard.Library": "1.6.1",
+    //"Microsoft.EntityFrameworkCore.Tools": "1.0.0-preview1-final"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  },
+
+  //"tools": {
+  //  "Microsoft.EntityFrameworkCore.Tools": {
+  //    "version": "1.0.0-preview1-final",
+  //    "imports": [
+  //      "portable-net45+win8+dnxcore50",
+  //      "portable-net45+win8"
+  //    ]
+  //  }
+  //}
+}

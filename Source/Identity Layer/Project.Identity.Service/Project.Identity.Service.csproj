@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <AssemblyName>Project.Identity.Service</AssemblyName>
+    <PackageId>Project.Identity.Service</PackageId>
+    <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
+    <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data Access Layer\Project.Data.Repository\Project.Data.Repository.csproj" />
+    <ProjectReference Include="..\Project.Identity\Project.Identity.csproj" />
+    <ProjectReference Include="..\Project.Identity.Repository\Project.Identity.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

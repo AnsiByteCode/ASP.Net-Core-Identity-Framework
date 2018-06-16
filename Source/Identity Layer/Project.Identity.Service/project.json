@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.1",
+    "Project.Data.Repository": "1.0.0-*",
+    "Project.Identity": "1.0.0-*",
+    "Project.Identity.Repository": "1.0.0-*"
+  },
+
+  //"frameworks": {
+  //  "netstandard1.6.1": {
+  //    "imports": "dnxcore50"
+  //  }
+  //}
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": [
+        "dotnet5.6",
+        "portable-net45+win8"
+      ]
+    }
+  }
+}

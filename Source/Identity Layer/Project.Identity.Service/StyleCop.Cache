@@ -1,0 +1,1000 @@
+<stylecopresultscache>
+  <version>12</version>
+  <sourcecode name="IRoleService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:12:18.378</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="IUserService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:15:08.575</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="BaseService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:16:55.285</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'tDbContext' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>28</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="IBaseService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:18:27.932</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="RoleService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:27:55.340</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>295</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'tDbContext' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustAppearInTheCorrectOrder" ruleCheckId="SA1201">
+        <context>All constructors must be placed after all fields.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>40</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="InstanceReadonlyElementsMustAppearBeforeInstanceNonReadonlyElements" ruleCheckId="SA1215">
+        <context>All non-static readonly private fields must be placed before all non-static non-readonly private fields.</context>
+        <line>45</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="InstanceReadonlyElementsMustAppearBeforeInstanceNonReadonlyElements" ruleCheckId="SA1215">
+        <context>All non-static readonly private fields must be placed before all non-static non-readonly private fields.</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>45</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>50</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>67</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'tDbContext' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>63</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>66</line>
+        <index>2562</index>
+        <endIndex>2572</endIndex>
+        <startLine>66</startLine>
+        <startColumn>13</startColumn>
+        <endLine>66</endLine>
+        <endColumn>23</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>68</line>
+        <index>2646</index>
+        <endIndex>2660</endIndex>
+        <startLine>68</startLine>
+        <startColumn>13</startColumn>
+        <endLine>68</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>69</line>
+        <index>2693</index>
+        <endIndex>2711</endIndex>
+        <startLine>69</startLine>
+        <startColumn>13</startColumn>
+        <endLine>69</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>67</line>
+        <index>2601</index>
+        <endIndex>2631</endIndex>
+        <startLine>67</startLine>
+        <startColumn>13</startColumn>
+        <endLine>67</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>111</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>126</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>154</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>170</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>187</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>207</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>224</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>243</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>257</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>271</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>290</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All protected methods must be placed after all public methods.</context>
+        <line>303</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>92</line>
+        <index>3500</index>
+        <endIndex>3510</endIndex>
+        <startLine>92</startLine>
+        <startColumn>21</startColumn>
+        <endLine>92</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>93</line>
+        <index>3544</index>
+        <endIndex>3554</endIndex>
+        <startLine>93</startLine>
+        <startColumn>21</startColumn>
+        <endLine>93</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>90</line>
+        <index>3439</index>
+        <endIndex>3449</endIndex>
+        <startLine>90</startLine>
+        <startColumn>21</startColumn>
+        <endLine>90</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>89</line>
+        <index>3393</index>
+        <endIndex>3416</endIndex>
+        <startLine>89</startLine>
+        <startColumn>17</startColumn>
+        <endLine>89</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>114</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>116</line>
+        <index>4120</index>
+        <endIndex>4134</endIndex>
+        <startLine>116</startLine>
+        <startColumn>24</startColumn>
+        <endLine>116</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>129</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>129</line>
+        <index>4521</index>
+        <endIndex>4526</endIndex>
+        <startLine>129</startLine>
+        <startColumn>24</startColumn>
+        <endLine>129</endLine>
+        <endColumn>29</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>131</line>
+        <index>4555</index>
+        <endIndex>4569</endIndex>
+        <startLine>131</startLine>
+        <startColumn>24</startColumn>
+        <endLine>131</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>143</line>
+        <index>4909</index>
+        <endIndex>4923</endIndex>
+        <startLine>143</startLine>
+        <startColumn>24</startColumn>
+        <endLine>143</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>144</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>157</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetRoleIdByName must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>159</line>
+        <index>5419</index>
+        <endIndex>5433</endIndex>
+        <startLine>159</startLine>
+        <startColumn>26</startColumn>
+        <endLine>159</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetRoleByIdAsync must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>160</line>
+        <index>5462</index>
+        <endIndex>5477</endIndex>
+        <startLine>160</startLine>
+        <startColumn>20</startColumn>
+        <endLine>160</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>173</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetRoleIdByName must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>175</line>
+        <index>5872</index>
+        <endIndex>5886</endIndex>
+        <startLine>175</startLine>
+        <startColumn>26</startColumn>
+        <endLine>175</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetRoleById must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>176</line>
+        <index>5915</index>
+        <endIndex>5925</endIndex>
+        <startLine>176</startLine>
+        <startColumn>20</startColumn>
+        <endLine>176</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>194</line>
+        <index>6463</index>
+        <endIndex>6481</endIndex>
+        <startLine>194</startLine>
+        <startColumn>13</startColumn>
+        <endLine>194</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>196</line>
+        <index>6523</index>
+        <endIndex>6533</endIndex>
+        <startLine>196</startLine>
+        <startColumn>20</startColumn>
+        <endLine>196</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>212</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>209</line>
+        <index>6974</index>
+        <endIndex>6992</endIndex>
+        <startLine>209</startLine>
+        <startColumn>29</startColumn>
+        <endLine>209</endLine>
+        <endColumn>47</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>212</line>
+        <index>7136</index>
+        <endIndex>7154</endIndex>
+        <startLine>212</startLine>
+        <startColumn>17</startColumn>
+        <endLine>212</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>214</line>
+        <index>7197</index>
+        <endIndex>7207</endIndex>
+        <startLine>214</startLine>
+        <startColumn>20</startColumn>
+        <endLine>214</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>226</line>
+        <index>7580</index>
+        <endIndex>7598</endIndex>
+        <startLine>226</startLine>
+        <startColumn>29</startColumn>
+        <endLine>226</endLine>
+        <endColumn>47</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>230</line>
+        <index>7739</index>
+        <endIndex>7757</endIndex>
+        <startLine>230</startLine>
+        <startColumn>17</startColumn>
+        <endLine>230</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>233</line>
+        <index>7814</index>
+        <endIndex>7824</endIndex>
+        <startLine>233</startLine>
+        <startColumn>20</startColumn>
+        <endLine>233</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>245</line>
+        <index>8135</index>
+        <endIndex>8149</endIndex>
+        <startLine>245</startLine>
+        <startColumn>13</startColumn>
+        <endLine>245</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>247</line>
+        <index>8187</index>
+        <endIndex>8197</endIndex>
+        <startLine>247</startLine>
+        <startColumn>20</startColumn>
+        <endLine>247</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>259</line>
+        <index>8508</index>
+        <endIndex>8522</endIndex>
+        <startLine>259</startLine>
+        <startColumn>13</startColumn>
+        <endLine>259</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>261</line>
+        <index>8560</index>
+        <endIndex>8570</endIndex>
+        <startLine>261</startLine>
+        <startColumn>20</startColumn>
+        <endLine>261</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>276</line>
+        <index>9032</index>
+        <endIndex>9050</endIndex>
+        <startLine>276</startLine>
+        <startColumn>17</startColumn>
+        <endLine>276</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>274</line>
+        <index>8939</index>
+        <endIndex>8957</endIndex>
+        <startLine>274</startLine>
+        <startColumn>36</startColumn>
+        <endLine>274</endLine>
+        <endColumn>54</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>279</line>
+        <index>9098</index>
+        <endIndex>9112</endIndex>
+        <startLine>279</startLine>
+        <startColumn>13</startColumn>
+        <endLine>279</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>281</line>
+        <index>9150</index>
+        <endIndex>9160</endIndex>
+        <startLine>281</startLine>
+        <startColumn>20</startColumn>
+        <endLine>281</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>292</line>
+        <index>9433</index>
+        <endIndex>9447</endIndex>
+        <startLine>292</startLine>
+        <startColumn>20</startColumn>
+        <endLine>292</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'RoleService&lt;TDbContext&gt;.' or 'BaseService&lt;Role,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>305</line>
+        <index>9783</index>
+        <endIndex>9801</endIndex>
+        <startLine>305</startLine>
+        <startColumn>20</startColumn>
+        <endLine>305</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-1995061357">
+    <configuration>
+    </configuration>
+  </project>
+  <sourcecode name="UserService.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2018/03/06 14:44:56.493</styleCop>
+      <settingsFile>2018/03/06 14:44:56.472</settingsFile>
+      <sourceFile>2018/06/16 19:33:37.736</sourceFile>
+      <parser>2018/03/06 14:44:56.493</parser>
+      <StyleCop.CSharp.DocumentationRules>2018/03/06 14:44:56.493</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2018/03/06 14:44:56.493</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2018/03/06 14:44:56.493</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2018/03/06 14:44:56.493</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>32</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>37</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>42</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>47</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>52</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>57</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'tDbContext' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>79</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="SplitParametersMustStartOnLineAfterDeclaration" ruleCheckId="SA1116">
+        <context>If the constructor parameters are on separate lines, the first parameter must begin on the line beneath the name of the constructor.</context>
+        <line>73</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>82</line>
+        <index>3204</index>
+        <endIndex>3214</endIndex>
+        <startLine>82</startLine>
+        <startColumn>13</startColumn>
+        <endLine>82</endLine>
+        <endColumn>23</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>83</line>
+        <index>3243</index>
+        <endIndex>3257</endIndex>
+        <startLine>83</startLine>
+        <startColumn>13</startColumn>
+        <endLine>83</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>84</line>
+        <index>3290</index>
+        <endIndex>3304</endIndex>
+        <startLine>84</startLine>
+        <startColumn>13</startColumn>
+        <endLine>84</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>85</line>
+        <index>3337</index>
+        <endIndex>3355</endIndex>
+        <startLine>85</startLine>
+        <startColumn>13</startColumn>
+        <endLine>85</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userClaimRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>86</line>
+        <index>3392</index>
+        <endIndex>3411</endIndex>
+        <startLine>86</startLine>
+        <startColumn>13</startColumn>
+        <endLine>86</endLine>
+        <endColumn>32</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userLoginRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>87</line>
+        <index>3449</index>
+        <endIndex>3468</endIndex>
+        <startLine>87</startLine>
+        <startColumn>13</startColumn>
+        <endLine>87</endLine>
+        <endColumn>32</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>99</line>
+        <index>3782</index>
+        <endIndex>3796</endIndex>
+        <startLine>99</startLine>
+        <startColumn>13</startColumn>
+        <endLine>99</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>101</line>
+        <index>3834</index>
+        <endIndex>3844</endIndex>
+        <startLine>101</startLine>
+        <startColumn>20</startColumn>
+        <endLine>101</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>119</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRoleRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>114</line>
+        <index>4256</index>
+        <endIndex>4274</endIndex>
+        <startLine>114</startLine>
+        <startColumn>36</startColumn>
+        <endLine>114</endLine>
+        <endColumn>54</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _roleRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>118</line>
+        <index>4449</index>
+        <endIndex>4463</endIndex>
+        <startLine>118</startLine>
+        <startColumn>28</startColumn>
+        <endLine>118</endLine>
+        <endColumn>42</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>135</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetUserIdFromEmail must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>137</line>
+        <index>5047</index>
+        <endIndex>5064</endIndex>
+        <startLine>137</startLine>
+        <startColumn>26</startColumn>
+        <endLine>137</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetUserByIdAsync must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>138</line>
+        <index>5094</index>
+        <endIndex>5109</endIndex>
+        <startLine>138</startLine>
+        <startColumn>20</startColumn>
+        <endLine>138</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>151</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>153</line>
+        <index>5493</index>
+        <endIndex>5507</endIndex>
+        <startLine>153</startLine>
+        <startColumn>20</startColumn>
+        <endLine>153</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>166</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>168</line>
+        <index>5970</index>
+        <endIndex>5984</endIndex>
+        <startLine>168</startLine>
+        <startColumn>26</startColumn>
+        <endLine>168</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>182</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>184</line>
+        <index>6477</index>
+        <endIndex>6491</endIndex>
+        <startLine>184</startLine>
+        <startColumn>20</startColumn>
+        <endLine>184</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>197</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetUserById must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>200</line>
+        <index>7015</index>
+        <endIndex>7025</endIndex>
+        <startLine>200</startLine>
+        <startColumn>20</startColumn>
+        <endLine>200</endLine>
+        <endColumn>30</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CurlyBracketsMustNotBeOmitted" ruleCheckId="SA1503">
+        <context>The body of the if statement must be wrapped in opening and closing curly brackets.</context>
+        <line>213</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetUserIdFromUserName must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>214</line>
+        <index>7479</index>
+        <endIndex>7499</endIndex>
+        <startLine>214</startLine>
+        <startColumn>26</startColumn>
+        <endLine>214</endLine>
+        <endColumn>46</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to GetUserByIdAsync must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>216</line>
+        <index>7534</index>
+        <endIndex>7549</endIndex>
+        <startLine>216</startLine>
+        <startColumn>20</startColumn>
+        <endLine>216</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>230</line>
+        <index>7885</index>
+        <endIndex>7899</endIndex>
+        <startLine>230</startLine>
+        <startColumn>17</startColumn>
+        <endLine>230</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _unitOfWork must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>231</line>
+        <index>7939</index>
+        <endIndex>7949</endIndex>
+        <startLine>231</startLine>
+        <startColumn>24</startColumn>
+        <endLine>231</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>249</line>
+        <index>8428</index>
+        <endIndex>8442</endIndex>
+        <startLine>249</startLine>
+        <startColumn>24</startColumn>
+        <endLine>249</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>250</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixCallsCorrectly" ruleCheckId="SA1126">
+        <context>The call to _userRepository must begin with the 'this.', 'base.', 'object.' or 'UserService&lt;TDbContext&gt;.' or 'BaseService&lt;User,TDbContext&gt;.' prefix to indicate the intended method call. </context>
+        <line>260</line>
+        <index>8850</index>
+        <endIndex>8864</endIndex>
+        <startLine>260</startLine>
+        <startColumn>24</startColumn>
+        <endLine>260</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>261</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

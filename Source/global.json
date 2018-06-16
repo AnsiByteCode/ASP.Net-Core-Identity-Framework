@@ -1,0 +1,6 @@
+{
+  "projects": [ "Presentation Layer","Data Access Layer", "Common Framework Layer", "Identity Layer" ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}

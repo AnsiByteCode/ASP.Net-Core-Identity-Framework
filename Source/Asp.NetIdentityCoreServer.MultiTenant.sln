@@ -1,0 +1,136 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{2ECC3CE3-BE72-43AD-BD3D-495E09819772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4CA830A7-C686-4048-800D-892D6F2CE737}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common Framework Layer", "Common Framework Layer", "{F6F28CF1-B798-4AA1-87A3-58033A42BFC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Access Layer", "Data Access Layer", "{DFF67306-3DFC-49FF-B462-BF439FEA7B5F}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Data.Entity", "Data Access Layer\Project.Data.Entity\Project.Data.Entity.xproj", "{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Data.Repository", "Data Access Layer\Project.Data.Repository\Project.Data.Repository.xproj", "{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Microsoft.EntityFrameworkCore.UnitOfWork", "Common Framework Layer\Microsoft.EntityFrameworkCore.UnitOfWork\Microsoft.EntityFrameworkCore.UnitOfWork.xproj", "{433F8C68-BE04-44EB-8F2D-CD85DB1746F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity Layer", "Identity Layer", "{BA1AE41B-5FA9-497D-9E40-50937179844A}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNet.Identity.EntityFramework.Multitenant", "Identity Layer\AspNet.Identity.EntityFramework.Multitenant\AspNet.Identity.EntityFramework.Multitenant.xproj", "{CDC5C5CB-813C-41D4-B035-19FE59ED68F8}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Identity", "Identity Layer\Project.Identity\Project.Identity.xproj", "{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Identity.Repository", "Identity Layer\Project.Identity.Repository\Project.Identity.Repository.xproj", "{E698EBAB-1678-4A15-B93A-38764754C044}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Identity.Store", "Identity Layer\Project.Identity.Store\Project.Identity.Store.xproj", "{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Identity.Service", "Identity Layer\Project.Identity.Service\Project.Identity.Service.xproj", "{84F19110-7D11-47A3-81F6-0A4336389155}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "IdentityCoreServer.Web", "Presentation Layer\IdentityCoreServer.Web\IdentityCoreServer.Web.xproj", "{EA22336C-4150-4DB2-B9EB-945B7BFED447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433F8C68-BE04-44EB-8F2D-CD85DB1746F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433F8C68-BE04-44EB-8F2D-CD85DB1746F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433F8C68-BE04-44EB-8F2D-CD85DB1746F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433F8C68-BE04-44EB-8F2D-CD85DB1746F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC5C5CB-813C-41D4-B035-19FE59ED68F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC5C5CB-813C-41D4-B035-19FE59ED68F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC5C5CB-813C-41D4-B035-19FE59ED68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC5C5CB-813C-41D4-B035-19FE59ED68F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E698EBAB-1678-4A15-B93A-38764754C044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E698EBAB-1678-4A15-B93A-38764754C044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E698EBAB-1678-4A15-B93A-38764754C044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E698EBAB-1678-4A15-B93A-38764754C044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F19110-7D11-47A3-81F6-0A4336389155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F19110-7D11-47A3-81F6-0A4336389155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F19110-7D11-47A3-81F6-0A4336389155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F19110-7D11-47A3-81F6-0A4336389155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA22336C-4150-4DB2-B9EB-945B7BFED447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA22336C-4150-4DB2-B9EB-945B7BFED447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA22336C-4150-4DB2-B9EB-945B7BFED447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA22336C-4150-4DB2-B9EB-945B7BFED447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{667CCE0C-0561-4B0F-AC00-9DDC9822ABF5} = {DFF67306-3DFC-49FF-B462-BF439FEA7B5F}
+		{FA70ABE2-F062-4DE1-BB35-D74CE2192BC8} = {DFF67306-3DFC-49FF-B462-BF439FEA7B5F}
+		{433F8C68-BE04-44EB-8F2D-CD85DB1746F0} = {F6F28CF1-B798-4AA1-87A3-58033A42BFC3}
+		{CDC5C5CB-813C-41D4-B035-19FE59ED68F8} = {BA1AE41B-5FA9-497D-9E40-50937179844A}
+		{B7A8C97C-EC4D-44AC-B971-51B2F57B05AB} = {BA1AE41B-5FA9-497D-9E40-50937179844A}
+		{E698EBAB-1678-4A15-B93A-38764754C044} = {BA1AE41B-5FA9-497D-9E40-50937179844A}
+		{8A6B8DD1-AA0E-421B-AF75-CA3586D745C7} = {BA1AE41B-5FA9-497D-9E40-50937179844A}
+		{84F19110-7D11-47A3-81F6-0A4336389155} = {BA1AE41B-5FA9-497D-9E40-50937179844A}
+		{EA22336C-4150-4DB2-B9EB-945B7BFED447} = {2ECC3CE3-BE72-43AD-BD3D-495E09819772}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/internal
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Data\u0020Access\u0020Layer\\Project.Data.Entity\\Project.Data.Entity.xproj
+		SccProjectTopLevelParentUniqueName1 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName1 = Data\u0020Access\u0020Layer/Project.Data.Entity
+		SccLocalPath1 = Data\u0020Access\u0020Layer\\Project.Data.Entity
+		SccProjectUniqueName2 = Data\u0020Access\u0020Layer\\Project.Data.Repository\\Project.Data.Repository.xproj
+		SccProjectTopLevelParentUniqueName2 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName2 = Data\u0020Access\u0020Layer/Project.Data.Repository
+		SccLocalPath2 = Data\u0020Access\u0020Layer\\Project.Data.Repository
+		SccProjectUniqueName3 = Common\u0020Framework\u0020Layer\\Microsoft.EntityFrameworkCore.UnitOfWork\\Microsoft.EntityFrameworkCore.UnitOfWork.xproj
+		SccProjectTopLevelParentUniqueName3 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName3 = Common\u0020Framework\u0020Layer/Microsoft.EntityFrameworkCore.UnitOfWork
+		SccLocalPath3 = Common\u0020Framework\u0020Layer\\Microsoft.EntityFrameworkCore.UnitOfWork
+		SccProjectUniqueName4 = Identity\u0020Layer\\AspNet.Identity.EntityFramework.Multitenant\\AspNet.Identity.EntityFramework.Multitenant.xproj
+		SccProjectTopLevelParentUniqueName4 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName4 = Identity\u0020Layer/AspNet.Identity.EntityFramework.Multitenant
+		SccLocalPath4 = Identity\u0020Layer\\AspNet.Identity.EntityFramework.Multitenant
+		SccProjectUniqueName5 = Identity\u0020Layer\\Project.Identity\\Project.Identity.xproj
+		SccProjectTopLevelParentUniqueName5 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName5 = Identity\u0020Layer/Project.Identity
+		SccLocalPath5 = Identity\u0020Layer\\Project.Identity
+		SccProjectUniqueName6 = Identity\u0020Layer\\Project.Identity.Repository\\Project.Identity.Repository.xproj
+		SccProjectTopLevelParentUniqueName6 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName6 = Identity\u0020Layer/Project.Identity.Repository
+		SccLocalPath6 = Identity\u0020Layer\\Project.Identity.Repository
+		SccProjectUniqueName7 = Identity\u0020Layer\\Project.Identity.Store\\Project.Identity.Store.xproj
+		SccProjectTopLevelParentUniqueName7 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName7 = Identity\u0020Layer/Project.Identity.Store
+		SccLocalPath7 = Identity\u0020Layer\\Project.Identity.Store
+		SccProjectUniqueName8 = Identity\u0020Layer\\Project.Identity.Service\\Project.Identity.Service.xproj
+		SccProjectTopLevelParentUniqueName8 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName8 = Identity\u0020Layer/Project.Identity.Service
+		SccLocalPath8 = Identity\u0020Layer\\Project.Identity.Service
+		SccProjectUniqueName9 = Presentation\u0020Layer\\IdentityCoreServer.Web\\IdentityCoreServer.Web.xproj
+		SccProjectTopLevelParentUniqueName9 = Asp.NetIdentityCoreServer.MultiTenant.sln
+		SccProjectName9 = Presentation\u0020Layer/IdentityCoreServer.Web
+		SccLocalPath9 = Presentation\u0020Layer\\IdentityCoreServer.Web
+	EndGlobalSection
+EndGlobal

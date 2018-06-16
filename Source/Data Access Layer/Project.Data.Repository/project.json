@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "Microsoft.EntityFrameworkCore": "1.1.2",
+    "Microsoft.EntityFrameworkCore.Relational": "1.1.2",
+    "Microsoft.EntityFrameworkCore.UnitOfWork": "1.0.0-*",
+    //"Microsoft.EntityFrameworkCore.UnitOfWork": "1.0.0-*",
+    "NETStandard.Library": "1.6.1"
+  },
+  //"frameworks": {
+  //  "netstandard1.6.1": {
+  //    "imports": "dnxcore50"
+  //  },
+  //  "net452": {
+  //  }
+  //},
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": [
+        "dotnet5.6",
+        "portable-net45+win8"
+      ]
+    }
+  },
+
+  "version": "1.0.0-*"
+}
